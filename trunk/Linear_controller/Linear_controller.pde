@@ -5,12 +5,12 @@ void setup()
  pinMode(10,OUTPUT);
  pinMode(11,OUTPUT);
  
- pinMode(9,INPUT); 
+ pinMode(3,INPUT); 
 }
 
 void loop()
 {
-  motor_direction = pulseIn(9,HIGH);
+  motor_direction = pulseIn(3,HIGH);
   
   if (motor_direction < 1700)
   {
