@@ -8,7 +8,7 @@ void setup()
  pinMode(9,INPUT); 
 }
 
-void()
+void loop()
 {
   motor_direction = pulseIn(9,HIGH);
   
@@ -32,6 +32,4 @@ void()
    digitalWrite(10,LOW);
    digitalWrite(11,HIGH);
   }
-  
-  
 }
