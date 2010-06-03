@@ -1,3 +1,4 @@
+
 int new_e_stop = 1;
 int old_e_stop = 1;
 long delay_time = 0;
@@ -27,6 +28,7 @@ void loop()
       digitalWrite(13,HIGH); 
     }
   }
+  
   
   extern volatile unsigned long timer0_millis;
   cli();
