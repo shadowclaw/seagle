@@ -1,2 +1,3 @@
 PAN ID: 2000
 BAUD: 19200
+900MHz Xbee
