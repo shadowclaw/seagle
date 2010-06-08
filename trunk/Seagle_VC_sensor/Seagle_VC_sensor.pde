@@ -67,6 +67,6 @@ void loop()
 //  Serial.print(" M: ");
 //  Serial.print("MODE");
 
-  Serial.print("Seagle 3");
+  Serial.print(" Seagle");
 
 }
