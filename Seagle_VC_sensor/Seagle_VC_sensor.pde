@@ -63,5 +63,10 @@ void loop()
   Serial.print("A: ");
   if (current<10) Serial.print(" ");
   Serial.print(current);
-  Serial.print(" Seagle 3.0");
+
+//  Serial.print(" M: ");
+//  Serial.print("MODE");
+
+  Serial.print("Seagle 3");
+
 }
