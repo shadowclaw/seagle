@@ -1,0 +1,28 @@
+Seagle Improvements
+
+	Re-wire
+	Test Computer
+	fix wireless back to unfucked set-up
+	GPS in labview
+	Compass Logging
+	Motor Test
+	Move Camera / wiper maybe
+	Test other hull
+	Re-set Coolant
+	
+
+Equipment Check List
+
+	Rc Controller
+	Multi-Meter
+	Tools
+	Batteries Charged
+	Computer
+	Laptop
+	Power Cord
+	Passwords
+	Monitor/ Keyboard
+	GPS
+	Notepad
+	Cameras/Video
+	
