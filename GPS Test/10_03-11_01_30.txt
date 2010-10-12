@@ -1,0 +1,2 @@
+Easting,Northing,Solution,Altitude, Lat_Std_Dev,Long_Std_Dev,Height_Std_Dev
+10_03-11_01_45,833978.556916,0.000000,,0.000000,0.000000,0.000000,0.000000
